@@ -1,3 +1,5 @@
-<h1 align="center">404 - Page Not Found</h1>
-
-<p align="center">Oops! It seems you've reached a page that doesn't exist. Please <strong>reload</strong> and try again.</p>
+<p align="center">
+    <img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
+</p>
+<p align="center"><strong>Oops! We didn't receive a proper request from your browser.</strong></p>
+<p align="center">It seems you've reached a page that doesn't exist. Please reload and try again.</p>
